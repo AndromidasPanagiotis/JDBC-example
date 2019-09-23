@@ -5,11 +5,11 @@ Implementation of a school structure where a user can log in and, depending on h
 Log-in systems checks if the user exists in the database and if the password is correct, then shows the related menu.
 
 
-head master log in : 
+Head master credentials: 
 	                    username: andro 
 	                    password: 1234
 
-students log in:
+Students credentials:
 	                    username: peter
 	                    password: test1
 
@@ -22,7 +22,7 @@ students log in:
 	                    username: stam
 	                    password: test4
 
-trainers log in:
+Trainers credentials:
 	                    username: angie
 	                    password: test5
 
@@ -35,3 +35,8 @@ trainers log in:
 	                    username: joanne
 	                    password: test8
                       
+		      
+Database Connection:	remotemysql.com:3306
+Schema name:		J7DRRLbWja
+User:			J7DRRLbWja
+Password:		UbCPGinl33
